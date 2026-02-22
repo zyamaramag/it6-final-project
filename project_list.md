@@ -18,3 +18,6 @@
 [Contact-Book-Flask-App](https://github.com/RF-Fahad-Islam/Contact-Book-Flask-App.git) - cloned into [Kleya Roes M. Cabatu's Repository](https://github.com/kleyacabatu/Contact-Book-Flask-App.git) - [block 2]  
 [Flask-Based-Note-Taking-Web-Application](https://github.com/Aparnakannan11/Flask-Based-Note-Taking-Web-Application) - cloned into [Mycka Valoroso's Repository](https://github.com/mycka4/Flask-Based-Note-Taking-Web-Application) - [Block 2]  
 [URL-Shortener](https://github.com/ezhil56x/URL-Shortener.git) - cloned into [Frilyn Alicos' Repository](https://github.com/fraaays/URL-Shortener.git) - [block 2]  
+[comfyui-image-gallery](https://github.com/Smuzzies/comfyui_image_gallery.git) - cloned into [Karl Nuas' Repository](https://github.com/6shay9/comfyui_image_gallery-modified.git) - [Block1]  
+[Flask Todo App](https://github.com/onurtacc/flask-todo-app) - cloned into [Ryan Jazer G. Prieto](https://github.com/Ryannn20/flask-todo-app) [Block 1]  
+[MemerSala](https://github.com/NikhilCodes/MemerSala) - cloned into [Gadiel Zya T. Maramag](https://github.com/zyamaramag/MemerSala/tree/finalhands-on-rest-api-feature) - [Block 1]
